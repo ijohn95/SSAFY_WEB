@@ -1,7 +1,7 @@
 # node-vue-board-master
 - Open Weather API, Kakao MAP API 사용 <br><br>
 Open Weather API : https://openweathermap.org/ <br>
-Kakao MAP : https://apis.map.kakao.com/<br>
+Kakao MAP API : https://apis.map.kakao.com/<br>
  
 ## 초기 화면 
 - 로그인시 <br><br>
