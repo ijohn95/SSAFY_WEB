@@ -6,7 +6,7 @@
 ## Compiles
 ### backend
 ```
-npm nun dev<br> 
+npm nun dev
 ```
 (nodemon)
 ### frontend
