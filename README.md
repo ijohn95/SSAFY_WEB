@@ -1,14 +1,13 @@
 # SSAFY_WEB<br>
-```
 - Nodejs, Vuejs를 이용한 WEB PAGE 제작 연습<br>
 - bootstrap-vue, mysql2, express 등 활용<br>
 - 용량 초과로 node_modules 폴더는 삭제 후 업로드했습니다.
-```
+
 ### backend
 ```
 - npm nun dev<br> 
-(nodemon)
 ```
+(nodemon)
 ### frontend
 ```
 - npm run serve
