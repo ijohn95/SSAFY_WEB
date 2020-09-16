@@ -5,12 +5,12 @@
 
 ### backend
 ```
-- npm nun dev<br> 
+npm nun dev<br> 
 ```
 (nodemon)
 ### frontend
 ```
-- npm run serve
+npm run serve
 ```
 ## MOBANG<br>
 - 부동산 플랫폼 WEB PAGE<br><br>
